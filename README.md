@@ -133,27 +133,3 @@ Several enhancements could further improve performance and applicability:
 5.  **Advanced Architectures:** Explore models such as EfficientNet, DenseNet, or transformer-based vision models for potentially better performance.
 
 ---
-
-## How to Run This Project (If Applicable)
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/5a-thwik/Brain-Tumor-Classification-VGG16-ResNet18.git](https://github.com/your-username/Brain-Tumor-Classification-VGG16-ResNet18.git)
-    cd Brain-Tumor-Classification-VGG16-ResNet18
-    ```
-2.  **Install dependencies:**
-    *(You'll need to create a `requirements.txt` file in your repository. See instructions below.)*
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Download the dataset:**
-    *(Provide instructions or a link on where to get the "Brain Tumor MRI Dataset" if it's publicly available. If it's a very large dataset, explain that it's too big for GitHub and users need to download it separately.)*
-4.  **Open and run the Jupyter Notebook:**
-    ```bash
-    jupyter notebook your_notebook_name.ipynb
-    ```
-    *(Ensure your notebook's name matches the one you uploaded, e.g., `brain_tumor_classification.ipynb`)*
-
----
-
-## Contact
-* Sathwik S (NNM22IS145)
