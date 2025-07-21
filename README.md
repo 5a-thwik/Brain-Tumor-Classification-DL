@@ -82,7 +82,7 @@ Model performance was evaluated using a **confusion matrix**, **F1-score**, and 
 
 **ResNet18 Training & Validation Graphs:**
 *Replace with actual image links to your plots on GitHub*
-![ResNet18 Loss per Epoch](link-to-your-resnet-loss-plot.png)
+![ResNet18 Loss per Epoch]([link-to-your-resnet-loss-plot.png](https://github.com/5a-thwik/Brain-Tumor-Classification-DL/commit/45249f541e08d36bdf3abacd8ead95453b5b27f1#diff-5cd89315d60b6cb5d111a97aaccdd024031c245be669bf117c670033042f4c18))
 ![ResNet18 Accuracy per Epoch]( https://github.com/5a-thwik/Brain-Tumor-Classification-DL/commit/45249f541e08d36bdf3abacd8ead95453b5b27f1#diff-0ce51d34a897bcf9a6679499a4b6e4ca22f92bd61ab5aa56bfe95c53f9c311d2)
 
 ### VGG16 Results
